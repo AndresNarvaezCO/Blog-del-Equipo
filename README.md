@@ -1,2 +1,16 @@
-# Blog-del-Equipo
-Proyecto del curso de Git y GiHub de Platzi, desarrollo de un blog y avance en el proyecto estudiantil 
+#Blog del proyecto y desarrollo 
+
+[Proyecto de desarrollo del curso de Git y GiyHub de Platzi con Miguel Nieva]
+
+[Instalacion]
+-Requisitos
+-Version
+-Encargados del proyecto 
+
+[uso]
+
+[Documentacion]
+
+[Roadmap]
+
+[Licencia]
